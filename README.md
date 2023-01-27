@@ -1,2 +1,2 @@
 # pythonmysql
-pythonscript to insert rows to mwsql database
+pythonscript to insert rows to mysql database
